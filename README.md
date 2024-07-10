@@ -27,9 +27,19 @@
 
 ---
 ## Решение 1
+![Screenshot_1](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/dd6da359-2c7c-490d-b17c-3f7e9d605009)
 
+![Screenshot_5](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/4c2bf16d-655b-46f0-832d-4d5cb4589b8c)
 
+![Screenshot_9](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/02f652d8-195c-4fd8-aba9-03d633fa7506)
+
+![Screenshot_10](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/3a46fa0e-5b91-40dd-ae41-f861b4a1899f)
+
+![Screenshot_13](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/9a83b2b9-c534-4681-823f-67a591ff8449)
+
+![Screenshot_14](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/de51c1c8-f1f2-4034-8df6-3480a67f623a)
 ---
+
 ## Задача 2
 
 Выберите один из вариантов платформы в зависимости от задачи. Здесь нет однозначно верного ответа так как все зависит от конкретных условий: финансирование, компетенции специалистов, удобство использования, надежность, требования ИБ и законодательства, фазы луны.
