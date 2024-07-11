@@ -38,6 +38,13 @@
 ![Screenshot_13](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/9a83b2b9-c534-4681-823f-67a591ff8449)
 
 ![Screenshot_14](https://github.com/sharvik22/05-virt-01-basics/assets/136818757/de51c1c8-f1f2-4034-8df6-3480a67f623a)
+
+24 часа спустя
+
+![Screenshot_31](https://github.com/user-attachments/assets/1ec14d28-7798-48ea-8a4e-fe2868703f2b)
+
+![Screenshot_6](https://github.com/user-attachments/assets/83814d90-6d69-43e1-b52e-20212b57b19f)
+
 ---
 
 ## Задача 2
